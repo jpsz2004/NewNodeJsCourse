@@ -1,0 +1,49 @@
+JSON: JavaScript Object Notation
+Formato de texto usado para almacenar y transportar información.
+almacenar objetos de JS en formato de texto
+
+Características
+Los dato se presentan en pares clave-valor "":"",....
+Separados por una coma
+
+Puede contener cadenas, numeros, arreglos, booleanos, objetos
+json.parse para pasar a javascript
+
+Comunicación cliente-servidor
+
+Instalacion de paquetes con npm
+Para instalar una versión determinada tenemos el siguiente comando:
+$npm isntall express@4.15.1 ---Version---
+
+EVENTOS ASINCRONOS
+Se ejecuta en paralelo con la aplicacion
+
+EVENTOS SINCRONOS
+Hasta que no se complete todo no continua
+Modulo events: definir, emitir, escuchar.
+
+Función callback
+Funcion que se pasa a otra función como argumento y luego se ejecuta dentro de la función externa
+
+.then identifica si una promesa fue cumplidao fue rechazada
+.catch solo se ejecuta si la promesa es rechazada
+
+MODELO CLIENTE servidor
+Es un modelo que se usa para acceder a internet y obtener recursos en informacion
+Cliente y servidor saben el tipo de mensaje que necesitan. 
+
+El protocolo HTTP define el formato de los mensajes. Son reglas para transmitir información entre dispositivos
+Hypertext transfer protocol
+
+Los metodos HTTP pueden ser sustantivos, o verbos http que indican la intencion de la solicitud
+
+PUERTO
+Ubicación virtual del sistema operativo en la que se puede acceder a una aplicación o a un proceso específico que se esté ejecutando en ese puerto
+
+URL Uniform Resource Locator direccion de un recurso en la web
+
+HTTPS: protocolo
+www. : subdominio
+nombre: dominio
+dominio de nivel superior: org, gov, edu,com
+path-camino: espanol..etc camino dentro de ese conjunto de archivos
